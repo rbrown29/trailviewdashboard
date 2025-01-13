@@ -2,6 +2,8 @@
 
 This project is a web-based application for exploring hiking trails like the **Cascade Head Trail**. It provides detailed trail information, interactive maps, elevation charts, weather data, and images of the trail.
 
+![Trail](/public/assets/video/CascadeHead.gif)
+
 Live Sites: 
 [Cascade Head Trail](https://viewcascadehead.netlify.app/)
 
@@ -113,6 +115,8 @@ https://github.com/user-attachments/assets/ad677430-f412-4fe9-8fd9-4f34f53acd9a
 ![Trail](/public/images_readMe_github/image5.png)
 
 ---
+
+![Trail](/public/assets/video/Cascade%20Head%20Adventure.gif)
 
 Happy Hiking! 🌲🏔️
 
