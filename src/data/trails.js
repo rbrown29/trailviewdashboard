@@ -11,10 +11,10 @@ const trailNames = [
       "Hiking trail through forests & meadows of a scenic headland with wildflowers & sweeping ocean views.The Cascade Head Preserve, the beautiful coastal area through which a good portion of this trail travels, is owned and maintained by The Nature Conservancy.",
     images : [
         "/assets/images/cascadeHead/cascadehead1.jpg",
-        "/assets/images/cascadeHead/cascadehead2.jpg",
+        "/assets/video/CascadeHead.gif",
         "/assets/images/cascadeHead/cascadehead3.jpg",
         "/assets/images/cascadeHead/cascadehead4.jpg",
-        "/assets/images/cascadeHead/cascadehead5.jpg",
+        "/assets/video/cascadehead2.gif",
         "/assets/images/cascadeHead/cascadehead6.jpg",
         "/assets/images/cascadeHead/cascadehead7.jpg",
         "/assets/images/cascadeHead/cascadehead8.jpg",
