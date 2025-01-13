@@ -4,11 +4,11 @@ const links = [
         "url": "https://oregon-hikes.onrender.com/"
     },
     {
-        "text": "More Info",
+        "text": "Info",
         "url": "https://www.oregonhikers.org/field_guide/Main_Page"
     },
     {
-        "text": "More Hikes",
+        "text": "Hikes",
         "url": "https://hikeexplorer.netlify.app/"
     },
     {
