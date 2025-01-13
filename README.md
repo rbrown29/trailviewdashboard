@@ -116,8 +116,6 @@ https://github.com/user-attachments/assets/ad677430-f412-4fe9-8fd9-4f34f53acd9a
 
 ---
 
-![Trail](/public/assets/video/Cascade%20Head%20Adventure.gif)
-
 Happy Hiking! 🌲🏔️
 
 
