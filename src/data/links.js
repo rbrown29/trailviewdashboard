@@ -12,7 +12,7 @@ const links = [
         "url": "https://hikeexplorer.netlify.app/"
     },
     {
-        "text": "Featured Hikes",
+        "text": "Featured",
         "url": "https://timely-scone-7b792f.netlify.app/"
     },
 ];
