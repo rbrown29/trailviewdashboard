@@ -14,6 +14,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Eagle Creek Trail](https://vieweaglecreek.netlify.app/)
 
+[Multnomah-Wahkeena Loop](https://viewmultnomah-wahkeena.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
