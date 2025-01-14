@@ -5,8 +5,8 @@ This project is a web-based application for exploring hiking trails like the **C
 ![Trail](/public/assets/video/CascadeHead.gif)
 
 Live Sites: 
-[Cascade Head Trail](https://viewcascadehead.netlify.app/)
-[Angels Rest Trail](https://viewangelsrest.netlify.app/)
+![Cascade Head Trail](https://viewcascadehead.netlify.app/)
+![Angels Rest Trail](https://viewangelsrest.netlify.app/)
 
 ## Features
 
