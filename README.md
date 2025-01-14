@@ -7,6 +7,7 @@ This project is a web-based application for exploring hiking trails like the **C
 ### Live Sites:
 
 [Cascade Head Trail](https://viewcascadehead.netlify.app/)
+
 [Angels Rest Trail](https://viewangelsrest.netlify.app/)
 
 ## Features
