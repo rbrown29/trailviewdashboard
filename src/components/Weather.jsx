@@ -53,7 +53,7 @@ const Weather = ({ latitude, longitude }) => {
     return <div className="weather-loading">Loading weather...</div>;
   }
 
-  const { main, weather: weatherDetails } = weather;
+  const { main, weather: weatherDetails} = weather;
   const weatherDescription = weatherDetails[0]?.description;
   const weatherMain = weatherDetails[0]?.main;
 

@@ -414,6 +414,7 @@ h2 {
   color: #080808;
 }
 
+
 .mapboxgl-popup-anchor-top .mapboxgl-popup-tip {
   border-bottom-color: #080808;
   opacity: 0.8;
@@ -423,6 +424,13 @@ h2 {
   border-top-color: #080808;
   opacity: 0.8;
 }
+
+.mapboxgl-popup-anchor-right .mapboxgl-popup-tip,
+.mapboxgl-popup-anchor-left .mapboxgl-popup-tip {
+  border-top-color: #080808 !important; 
+  opacity: 0.8 !important; 
+}
+
 
 .mapboxgl-popup-close-button {
   display: none;

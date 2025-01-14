@@ -10,6 +10,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Angels Rest Trail](https://viewangelsrest.netlify.app/)
 
+[Smith Rock Trail](https://viewsmithrock.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**

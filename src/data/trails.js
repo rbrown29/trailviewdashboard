@@ -49,6 +49,31 @@ const trailNames = [
       "/assets/images/angelsRest/AngelsRest12.webp",
     ],
   },
+  {
+    name : "Smith Rock Trail",
+    length: 6.15,
+    elevation: 1600,
+    location: "Terrebonne, Oregon",
+    difficulty: "Hard",
+    seasons: "Spring, Summer, Fall, Winter",
+    hiketype: "Loop",
+    description:
+      "Smith Rock State Park is a state park located in central Oregon's high desert near the communities of Redmond and Terrebonne. Its sheer cliffs of tuff and basalt are ideal for rock climbing of all difficulty levels.",
+    images: [
+      "/assets/images/smithRock/smithrock1.jpeg",
+      "/assets/images/smithRock/smithrock2.jpeg",
+      "/assets/images/smithRock/smithrock3.jpeg",
+      "/assets/images/smithRock/smithrock4.jpeg",
+      "/assets/images/smithRock/smithrock5.jpeg",
+      "/assets/images/smithRock/smithrock6.jpeg",
+      "/assets/images/smithRock/smithrock7.jpeg",
+      "/assets/images/smithRock/smithrock8.jpeg",
+      "/assets/images/smithRock/smithrock9.jpeg",
+      "/assets/images/smithRock/smithrock10.jpeg",
+      "/assets/images/smithRock/smithrock11.jpeg",
+      "/assets/images/smithRock/smithrock12.jpeg",
+    ],
+  }
 ];
 
 export default trailNames;

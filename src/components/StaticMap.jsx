@@ -12,15 +12,25 @@ const StaticMap = ({ data, hoveredPoint }) => {
 
   useEffect(() => {
     if (map.current) return;
+    // Calculate the center of the map
+    const calculateCenter = () => {
+      const totalPoints = data.length;
+      const centerLatitude =
+        data.reduce((sum, point) => sum + point.latitude, 0) / totalPoints;
+      const centerLongitude =
+        data.reduce((sum, point) => sum + point.longitude, 0) / totalPoints;
 
+      return [centerLongitude, centerLatitude];
+    };
+    const center = calculateCenter();
     // Initialize the map
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
       style: "mapbox://styles/mapbox/satellite-streets-v11",
-      center: [data[50].longitude, data[50].latitude],
-      zoom: isMobile ? 13 : 14,
-      bearing: 120,
-      pitch: 50,
+      center: center,
+      zoom: isMobile ? 13 : 13.9,
+      bearing: 0,
+      pitch: 30,
     });
 
     map.current.on("style.load", () => {
@@ -98,7 +108,6 @@ const StaticMap = ({ data, hoveredPoint }) => {
       });
     });
   }, [data, isMobile]);
-
   useEffect(() => {
     if (hoveredPoint && map.current) {
       const hoveredPointData = {
@@ -134,8 +143,12 @@ const StaticMap = ({ data, hoveredPoint }) => {
         .setLngLat([hoveredPoint.longitude, hoveredPoint.latitude])
         .setHTML(
           `<div style="background: #080808; color: #08ff08; padding: 10px; border-radius: 8px;">
-              <div><strong>Altitude:</strong> ${(hoveredPoint.altitude / 3.28084).toFixed(2) } ft</div>
-              <div><strong>Distance:</strong> ${(hoveredPoint.distance / 1609.34).toFixed(2)} miles</div>
+              <div><strong>Altitude:</strong> ${(
+                hoveredPoint.altitude / 3.28084
+              ).toFixed(2)} ft</div>
+              <div><strong>Distance:</strong> ${(
+                hoveredPoint.distance / 1609.34
+              ).toFixed(2)} miles</div>
             </div>`
         )
         .addTo(map.current);
