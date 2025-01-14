@@ -98,6 +98,31 @@ const trailNames = [
       "/assets/images/eagleCreek/eaglecreek11.jpeg",
       "/assets/images/eagleCreek/eaglecreek12.jpeg",
     ],
+  },
+  {
+    name: "Multnomah-Wahkeena Loop",
+    length: 5.06,
+    elevation: 1600,
+    location: "Corbett, Oregon",
+    difficulty: "Moderate",
+    seasons: "Spring, Summer, Fall, Winter",
+    hiketype: "Loop",
+    description:
+      "The Multnomah-Wahkeena Loop is a popular hiking trail in the Columbia River Gorge. The trail is known for its stunning views of the Columbia River and the surrounding mountains.",
+    images: [
+      "/assets/images/wahkeena/wahkeena1.jpeg",
+      "/assets/images/wahkeena/wahkeena2.jpeg",
+      "/assets/images/wahkeena/wahkeena3.jpeg",
+      "/assets/images/wahkeena/wahkeena4.jpeg",
+      "/assets/images/wahkeena/wahkeena5.jpeg",
+      "/assets/images/wahkeena/wahkeena6.jpeg",
+      "/assets/images/wahkeena/wahkeena7.jpeg",
+      "/assets/images/wahkeena/wahkeena8.jpeg",
+      "/assets/images/wahkeena/wahkeena9.jpeg",
+      "/assets/images/wahkeena/wahkeena10.jpeg",
+      "/assets/images/wahkeena/wahkeena11.jpeg",
+      "/assets/images/wahkeena/wahkeena12.jpeg",
+    ],
   }
 ];
 
