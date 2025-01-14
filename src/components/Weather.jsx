@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faLocationDot,
   faTemperatureHigh,
   faCloud,
   faCloudRain,
@@ -54,7 +53,7 @@ const Weather = ({ latitude, longitude }) => {
     return <div className="weather-loading">Loading weather...</div>;
   }
 
-  const { main, weather: weatherDetails, name } = weather;
+  const { main, weather: weatherDetails } = weather;
   const weatherDescription = weatherDetails[0]?.description;
   const weatherMain = weatherDetails[0]?.main;
 
@@ -93,10 +92,6 @@ const Weather = ({ latitude, longitude }) => {
       <h3>
         <FontAwesomeIcon icon={getWeatherIcon()} /> Weather
       </h3>
-      <p>
-        <FontAwesomeIcon icon={faLocationDot} /> <strong>Location:</strong>{" "}
-        {name}
-      </p>
       <p>
         <FontAwesomeIcon icon={faTemperatureHigh} />{" "}
         <strong>Temperature:</strong> {main.temp}°F

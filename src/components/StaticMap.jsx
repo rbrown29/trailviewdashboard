@@ -19,7 +19,7 @@ const StaticMap = ({ data, hoveredPoint }) => {
       style: "mapbox://styles/mapbox/satellite-streets-v11",
       center: [data[50].longitude, data[50].latitude],
       zoom: isMobile ? 13 : 14,
-      bearing: -40,
+      bearing: 120,
       pitch: 50,
     });
 
@@ -38,6 +38,16 @@ const StaticMap = ({ data, hoveredPoint }) => {
         type: "hillshade",
         paint: {
           "hillshade-exaggeration": 0.5,
+        },
+      });
+      map.current.addLayer({
+        id: "water",
+        source: "composite",
+        "source-layer": "water",
+        type: "fill",
+        paint: {
+          "fill-color": "#000F52",
+          "fill-opacity": 0.8,
         },
       });
     });
