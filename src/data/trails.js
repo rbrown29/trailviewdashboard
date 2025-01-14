@@ -73,6 +73,31 @@ const trailNames = [
       "/assets/images/smithRock/smithrock11.jpeg",
       "/assets/images/smithRock/smithrock12.jpeg",
     ],
+  },
+  {
+    name: "Eagle Creek Trail",
+    length: 12.21,
+    elevation: 1600,
+    location: "Cascade Locks, Oregon",
+    difficulty: "Hard",
+    seasons: "Spring, Summer, Fall",
+    hiketype: "Out and back",
+    description:
+      "The Eagle Creek Trail is a popular hiking trail that follows the Eagle Creek through the Columbia River Gorge in Oregon. The trail is known for its verdant beauty and the numerous waterfalls along its route.",
+    images: [
+      "/assets/images/eagleCreek/eaglecreek1.jpeg",
+      "/assets/images/eagleCreek/eaglecreek2.jpeg",
+      "/assets/images/eagleCreek/eaglecreek3.jpeg",
+      "/assets/images/eagleCreek/eaglecreek4.jpeg",
+      "/assets/images/eagleCreek/eaglecreek5.jpeg",
+      "/assets/images/eagleCreek/eaglecreek6.jpeg",
+      "/assets/images/eagleCreek/eaglecreek7.jpeg",
+      "/assets/images/eagleCreek/eaglecreek8.jpeg",
+      "/assets/images/eagleCreek/eaglecreek9.jpeg",
+      "/assets/images/eagleCreek/eaglecreek10.jpeg",
+      "/assets/images/eagleCreek/eaglecreek11.jpeg",
+      "/assets/images/eagleCreek/eaglecreek12.jpeg",
+    ],
   }
 ];
 

@@ -22,6 +22,14 @@ const cardLink = [
     {
         "text": "Story",
         "url": "https://smithrock.netlify.app/"
+    },
+    {
+        "text": "Walkthrough",
+        "url": "https://cute-mermaid-e88a57.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://eaglecreektotunnelfalls.netlify.app/"
     }
 ]
 

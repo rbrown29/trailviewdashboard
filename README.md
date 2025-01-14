@@ -12,6 +12,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Smith Rock Trail](https://viewsmithrock.netlify.app/)
 
+[Eagle Creek Trail](https://vieweaglecreek.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**

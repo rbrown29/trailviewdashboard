@@ -28,8 +28,8 @@ const StaticMap = ({ data, hoveredPoint }) => {
       container: mapContainer.current,
       style: "mapbox://styles/mapbox/satellite-streets-v11",
       center: center,
-      zoom: isMobile ? 13 : 13.9,
-      bearing: 0,
+      zoom: isMobile ? 10 : 11.5,
+      bearing: 120,
       pitch: 30,
     });
 
