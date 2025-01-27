@@ -18,6 +18,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Mirror Lake Trail](https://viewmirrorlake.netlify.app/)
 
+[Cape Perpetua Trail](https://viewcapeperpetua.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
