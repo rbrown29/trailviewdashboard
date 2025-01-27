@@ -16,6 +16,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Multnomah-Wahkeena Loop](https://viewmultnomah-wahkeena.netlify.app/)
 
+[Mirror Lake Trail](https://viewmirrorlake.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**

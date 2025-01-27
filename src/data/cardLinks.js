@@ -39,6 +39,22 @@ const cardLink = [
         "text": "Story",
         "url": "https://multnomah-wahkeena.netlify.app/"
     },
+    {
+        "text": "Walkthrough",
+        "url": "https://gleeful-custard-b20765.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://mirrorlakes.netlify.app/"
+    },
+    {
+        "text": "Walkthrough",
+        "url": "https://incandescent-malasada-94726c.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://capeperpetua.netlify.app/"
+    }
 ]
 
 export default cardLink;
