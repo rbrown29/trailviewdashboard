@@ -20,6 +20,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Cape Perpetua Trail](https://viewcapeperpetua.netlify.app/)
 
+[Garfield Peak Trail](https://viewgarfieldpeak.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
