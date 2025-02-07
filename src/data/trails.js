@@ -173,6 +173,31 @@ const trailNames = [
       "/assets/images/capePerpetua/capeperpetua11.jpeg",
       "/assets/images/capePerpetua/capeperpetua12.jpeg",
     ],
+  },
+  {
+    name: "Garfield Peak Trail",
+    length: 3.54,
+    elevation: 1000,
+    location: "Crater Lake, Oregon",
+    difficulty: "Moderate",
+    seasons: "Summer, Fall",
+    hiketype: "Out and back",
+    description:
+      "Garfield Peak Trail is a 3.54 mile out and back trail located near Crater Lake, Oregon that features a lake and is rated as moderate. The trail is primarily used for hiking and is best used from June until October.",
+    images: [
+      "/assets/images/garfieldPeak/Garfieldpeak1.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak2.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak3.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak4.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak5.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak6.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak7.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak8.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak9.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak10.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak11.jpeg",
+      "/assets/images/garfieldPeak/Garfieldpeak12.jpeg",
+    ],
   }
 ];
 

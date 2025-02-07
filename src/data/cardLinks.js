@@ -54,6 +54,14 @@ const cardLink = [
     {
         "text": "Story",
         "url": "https://capeperpetua.netlify.app/"
+    },
+    {
+        "text": "Walkthrough",
+        "url": "https://stellar-melomakarona-25960e.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://garfieldpeak.netlify.app/"
     }
 ]
 
