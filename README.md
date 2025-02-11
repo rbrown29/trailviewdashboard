@@ -22,6 +22,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Garfield Peak Trail](https://viewgarfieldpeak.netlify.app/)
 
+[Cape Kiwanda Trail](https://viewcapekiwanda.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
