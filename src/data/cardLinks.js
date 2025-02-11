@@ -69,7 +69,7 @@ const cardLink = [
     },
     {
         "text": "Story",
-        "url": "https://angelsrest.netlify.app/"
+        "url": "https://capekiwanda.netlify.app/"
     },
 ]
 
