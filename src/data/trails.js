@@ -198,7 +198,32 @@ const trailNames = [
       "/assets/images/garfieldPeak/Garfieldpeak11.jpeg",
       "/assets/images/garfieldPeak/Garfieldpeak12.jpeg",
     ],
-  }
+  },
+  {
+    name: "Cape kiwanda Trail",
+    length: 2.2,
+    elevation: 230,
+    location: "Pacific City, Oregon",
+    difficulty: "Moderate",
+    seasons: "Spring, Summer, Fall, Winter",
+    hiketype: "loop",
+    description:
+      "Cape kiwanda Trail is a 2.2 mile loop trail located near Pacific City, Oregon that offers scenic views and is good for all skill levels. The trail is primarily used for hiking, walking, and nature trips and is accessible year-round.",
+    images: [
+      "/assets/images/capeKiwanda/capekiwanda1.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda2.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda3.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda4.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda5.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda6.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda7.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda8.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda9.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda10.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda11.jpeg",
+      "/assets/images/capeKiwanda/capekiwanda12.jpeg",
+    ],
+  },
 ];
 
 export default trailNames;
