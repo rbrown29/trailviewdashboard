@@ -24,6 +24,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Cape Kiwanda Trail](https://viewcapekiwanda.netlify.app/)
 
+[Tamolitch Blue Pool Trail](https://viewtamolitchbluepool.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
