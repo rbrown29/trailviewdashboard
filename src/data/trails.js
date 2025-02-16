@@ -224,6 +224,31 @@ const trailNames = [
       "/assets/images/capeKiwanda/capekiwanda12.jpeg",
     ],
   },
+  {
+    name: "Tamolitch Blue Pool Trail",
+    length: 3.9,
+    elevation: 351,
+    location: "Blue River, Oregon",
+    difficulty: "Moderate",
+    seasons: "Spring, Summer, Fall, Winter",
+    hiketype: "Out and back",
+    description:
+      "Head out on this 3.9-mile out-and-back trail near Blue River, Oregon. Generally considered a moderately challenging route, it takes an average of 1 h 28 min to complete. This is a very popular area for birding, hiking, and mountain biking, so you'll likely encounter other people while exploring. The trail is open year-round and is beautiful to visit anytime.",
+    images: [
+      "/assets/images/TamolitchBluePool/bluePool1.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool2.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool3.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool4.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool5.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool6.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool7.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool8.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool9.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool10.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool11.jpeg",
+      "/assets/images/TamolitchBluePool/bluePool12.jpeg",
+    ],
+  }
 ];
 
 export default trailNames;

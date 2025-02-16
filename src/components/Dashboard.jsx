@@ -14,7 +14,7 @@ const Dashboard = () => {
 
   useEffect(() => {
     const loadData = async () => {
-      const response = await fetch("/CapeKiwanda.tcx");
+      const response = await fetch("/TamolitchBluePool.tcx");
       const tcxContent = await response.text();
       const parsedData = parseTCX(tcxContent);
       setData(parsedData);
