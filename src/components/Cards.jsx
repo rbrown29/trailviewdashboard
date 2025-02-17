@@ -7,22 +7,22 @@ const Card = () => {
   return (
     <div className="card">
       <div className="card-list">
-        <h2>{trailNames[9].name}</h2>
+        <h2>{trailNames[10].name}</h2>
         <p>
-          {trailNames[9].description}
+          {trailNames[10].description}
         </p>
-        <li>Length: {trailNames[9].length} miles</li>
-        <li>Elevation: {trailNames[9].elevation} feet</li>
-        <li>Location: {trailNames[9].location}</li>
-        <li>Difficulty: {trailNames[9].difficulty}</li>
-        <li>Seasons: {trailNames[9].seasons}</li>
-        <li>Hike Type: {trailNames[9].hiketype}</li>
+        <li>Length: {trailNames[10].length} miles</li>
+        <li>Elevation: {trailNames[10].elevation} feet</li>
+        <li>Location: {trailNames[10].location}</li>
+        <li>Difficulty: {trailNames[10].difficulty}</li>
+        <li>Seasons: {trailNames[10].seasons}</li>
+        <li>Hike Type: {trailNames[10].hiketype}</li>
         <div className="div">
           <button
             className="button"
             onClick={() => {
               window.open(
-                links[18].url,
+                links[20].url,
                 "_blank"
               );
             }}
@@ -33,7 +33,7 @@ const Card = () => {
             className="button"
             onClick={() =>
               window.open(
-                links[19].url,
+                links[21].url,
                 "_blank"
               )
             }

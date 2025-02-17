@@ -248,6 +248,31 @@ const trailNames = [
       "/assets/images/TamolitchBluePool/bluePool11.jpeg",
       "/assets/images/TamolitchBluePool/bluePool12.jpeg",
     ],
+  },
+  {
+    name: "Opal Creek Trail",
+    length: 9.3,
+    elevation: 1056,
+    location: "Lyons, Oregon",
+    difficulty: "Moderate",
+    seasons: "Spring, Summer",
+    hiketype: "Out and back",
+    description:
+      "Head out on this 9.3-mile out-and-back trail near Lyons, Oregon. Generally considered a moderately challenging route, it takes an average of 3 h 45 min to complete. This is a popular trail for birding, hiking, and running, but you can still enjoy some solitude during quieter times of day. The best times to visit this trail are April through September.",
+    images: [
+      "/assets/images/opalCreek/opalcreek1.jpeg",
+      "/assets/images/opalCreek/opalcreek2.jpeg",
+      "/assets/images/opalCreek/opalcreek3.jpeg",
+      "/assets/images/opalCreek/opalcreek4.jpeg",
+      "/assets/images/opalCreek/opalcreek5.jpeg",
+      "/assets/images/opalCreek/opalcreek6.jpeg",
+      "/assets/images/opalCreek/opalcreek7.jpeg",
+      "/assets/images/opalCreek/opalcreek8.jpeg",
+      "/assets/images/opalCreek/opalcreek9.jpeg",
+      "/assets/images/opalCreek/opalcreek10.jpeg",
+      "/assets/images/opalCreek/opalcreek11.jpeg",
+      "/assets/images/opalCreek/opalcreek12.jpeg",
+    ],
   }
 ];
 
