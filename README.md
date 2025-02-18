@@ -28,6 +28,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Opal Creek Trail](https://viewopalcreek.netlify.app/)
 
+[Cape Falcon Trail](https://viewcapefalcon.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
