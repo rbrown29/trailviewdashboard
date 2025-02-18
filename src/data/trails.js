@@ -273,6 +273,30 @@ const trailNames = [
       "/assets/images/opalCreek/opalcreek11.jpeg",
       "/assets/images/opalCreek/opalcreek12.jpeg",
     ],
+  },
+  {
+    name: "Cape Falcon Trail",
+    length: 4.5,
+    elevation: 580,
+    location: "Nehalem, Oregon",
+    difficulty: "Moderate",
+    seasons: "Spring, Summer, Fall, Winter",
+    hiketype: "Out and back",
+    description: "Check out this 4.5-mile out-and-back trail near Nehalem, Oregon. Generally considered a moderately challenging route, it takes an average of 1 h 54 min to complete. This is a very popular area for birding, hiking, and running, so you'll likely encounter other people while exploring. The best times to visit this trail are May through October. Dogs are welcome, but must be on a leash.",
+    images: [
+      "/assets/images/capeFalcon/capeFalcon1.jpeg",
+      "/assets/images/capeFalcon/capeFalcon2.jpeg",
+      "/assets/images/capeFalcon/capeFalcon3.jpeg",
+      "/assets/images/capeFalcon/capeFalcon4.jpeg",
+      "/assets/images/capeFalcon/capeFalcon5.jpeg",
+      "/assets/images/capeFalcon/capeFalcon6.jpeg",
+      "/assets/images/capeFalcon/capeFalcon7.jpeg",
+      "/assets/images/capeFalcon/capeFalcon8.jpeg",
+      "/assets/images/capeFalcon/capeFalcon9.jpeg",
+      "/assets/images/capeFalcon/capeFalcon10.jpeg",
+      "/assets/images/capeFalcon/capeFalcon11.jpeg",
+      "/assets/images/capeFalcon/capeFalcon12.jpeg",
+    ],
   }
 ];
 

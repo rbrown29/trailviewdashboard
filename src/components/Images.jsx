@@ -5,7 +5,7 @@ import trails from "../data/trails";
 const Images = () => {
   return (
     <div className="images-container">
-      {trails[10].images.map((image, index) => (
+      {trails[11].images.map((image, index) => (
         <img
           key={index}
           src={image} 
