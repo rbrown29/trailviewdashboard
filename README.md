@@ -30,6 +30,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Cape Falcon Trail](https://viewcapefalcon.netlify.app/)
 
+[Adams Glacier Trail](https://viewadamsglacier.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
