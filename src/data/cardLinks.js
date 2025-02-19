@@ -95,6 +95,14 @@ const cardLink = [
         "text": "Story",
         "url": "https://capefalcon.netlify.app/"
     },
+    {
+        "text": "Walkthrough",
+        "url": "https://effulgent-kelpie-0677da.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://adamsglacier.netlify.app/"
+    }
 ];
 
 export default cardLink;

@@ -297,6 +297,31 @@ const trailNames = [
       "/assets/images/capeFalcon/capeFalcon11.jpeg",
       "/assets/images/capeFalcon/capeFalcon12.jpeg",
     ],
+  },
+  {
+    name: "Adams Glacier Trail",
+    length: 12.3,
+    elevation: 1699,
+    location: "Mount Adams, Washington",
+    difficulty: "Hard",
+    seasons: "Summer",
+    hiketype: "Out and back",
+    description:
+      "Adams Glacier Meadows, also known as High Camp. The shortest approach for day hikers is via the Killen Creek Trail, which rises through montane woods on a rather aggressively stepped trail before reaching lush subalpine meadows and then the Pacific Crest Trail.",
+    images: [
+      "/assets/images/adamsGlacier/adamsGlacier1.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier2.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier3.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier4.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier5.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier6.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier7.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier8.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier9.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier10.jpg",
+      "/assets/images/adamsGlacier/adamsGlacier11.jpeg",
+      "/assets/images/adamsGlacier/adamsGlacier12.jpeg",
+    ],
   }
 ];
 
