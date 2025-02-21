@@ -35,7 +35,7 @@ This project is a web-based application for exploring hiking trails like the **C
 ## Features
 
 ### 1. **Trail Information**
-- Displays key trail details such as:
+  - Displays key trail details such as:
   - Name, length, elevation, and location.
   - Difficulty level, seasons, and hike type.
   - Comprehensive description of the trail.
@@ -142,5 +142,3 @@ https://github.com/user-attachments/assets/ad677430-f412-4fe9-8fd9-4f34f53acd9a
 ---
 
 Happy Hiking! 🌲🏔️
-
-
