@@ -32,6 +32,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Adams Glacier Trail](https://viewadamsglacier.netlify.app/)
 
+[Battle Ax Mountain Trail](https://viewbattleax.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
