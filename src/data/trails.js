@@ -322,7 +322,32 @@ const trailNames = [
       "/assets/images/adamsGlacier/adamsGlacier11.jpeg",
       "/assets/images/adamsGlacier/adamsGlacier12.jpeg",
     ],
-  }
+  },
+  {
+    name: "Battle Ax Mountain Trail",
+    length: 13.1,
+    elevation: 3353,
+    location: "Detroit, Oregon",
+    difficulty: "Hard",
+    seasons: "Spring, Summer, Fall",
+    hiketype: "Loop",
+    description:
+      "Battle Ax Mountain Trail is a 13.1 mile loop trail located near Detroit, Oregon that features a lake and is rated as difficult. The trail is primarily used for hiking, camping, and backpacking and is best used from June until October.",
+    images: [
+      "/assets/images/battleAx/battleAx1.jpeg",
+      "/assets/images/battleAx/battleAx2.jpeg",
+      "/assets/images/battleAx/battleAx3.jpeg",
+      "/assets/images/battleAx/battleAx4.jpeg",
+      "/assets/images/battleAx/battleAx5.jpeg",
+      "/assets/images/battleAx/battleAx6.jpeg",
+      "/assets/images/battleAx/battleAx7.jpeg",
+      "/assets/images/battleAx/battleAx8.jpeg",
+      "/assets/images/battleAx/battleAx9.jpeg",
+      "/assets/images/battleAx/battleAx10.jpeg",
+      "/assets/images/battleAx/battleAx11.jpeg",
+      "/assets/images/battleAx/battleAx12.jpeg",
+    ],
+  },
 ];
 
 export default trailNames;

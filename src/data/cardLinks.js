@@ -102,6 +102,14 @@ const cardLink = [
     {
         "text": "Story",
         "url": "https://adamsglacier.netlify.app/"
+    },
+    {
+        "text": "Walkthrough",
+        "url": "https://curious-croquembouche-d1e292.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://battleax.netlify.app/"
     }
 ];
 
