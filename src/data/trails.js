@@ -348,6 +348,31 @@ const trailNames = [
       "/assets/images/battleAx/battleAx12.jpeg",
     ],
   },
+  {
+    name: "Belknap Crater Trail",
+    length: 7.0,
+    elevation: 1830,
+    location: "Sisters, Oregon",
+    difficulty: "Hard",
+    seasons: "Summer, Fall",
+    hiketype: "Out and back",
+    description:
+      "Check out this 7.0-mile out-and-back trail near Sisters, Oregon. Generally considered a challenging route. This trail is great for hiking, and it's unlikely you'll encounter many other people while exploring. The best times to visit this trail are June through October.",
+    images: [
+      "/assets/images/belknapCrater/belknap1.jpeg",
+      "/assets/images/belknapCrater/belknap2.jpeg",
+      "/assets/images/belknapCrater/belknap3.jpeg",
+      "/assets/images/belknapCrater/belknap4.jpeg",
+      "/assets/images/belknapCrater/belknap5.jpeg",
+      "/assets/images/belknapCrater/belknap6.jpeg",
+      "/assets/images/belknapCrater/belknap7.jpeg",
+      "/assets/images/belknapCrater/belknap8.jpeg",
+      "/assets/images/belknapCrater/belknap9.jpeg",
+      "/assets/images/belknapCrater/belknap10.jpeg",
+      "/assets/images/belknapCrater/belknap11.jpeg",
+      "/assets/images/belknapCrater/belknap12.jpeg",
+    ],
+  }
 ];
 
 export default trailNames;

@@ -110,7 +110,15 @@ const cardLink = [
     {
         "text": "Story",
         "url": "https://battleax.netlify.app/"
-    }
+    },
+    {
+        "text": "Walkthrough",
+        "url": "https://creative-frangollo-b2f08a.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://belknapcrater.netlify.app/"
+    },
 ];
 
 export default cardLink;
