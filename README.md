@@ -34,6 +34,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Battle Ax Mountain Trail](https://viewbattleax.netlify.app/)
 
+[Belknap Crater Trail](https://viewbelknapcrater.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
