@@ -372,7 +372,32 @@ const trailNames = [
       "/assets/images/belknapCrater/belknap11.jpeg",
       "/assets/images/belknapCrater/belknap12.jpeg",
     ],
-  }
+  },
+  {
+    name: "Blue Basin Trail",
+    length: 4.0,
+    elevation: 961,
+    location: "John Day, Oregon",
+    difficulty: "Moderate",
+    seasons: "Spring, Summer, Fall, Winter",
+    hiketype: "Loop",
+    description:
+      "This trail takes you into Blue Basin, as well as up and over to the Blue Basin overlook. On this hike, you get the opportunity to explore the interesting colored rock and otherworldly feel of Blue Basin. From the overlook, you get a vantage point of the steep canyons and panoramic vistas that make up the John Day Fossil Beds National Monument.",
+    images: [
+      "/assets/images/blueBasin/bluebasin1.jpeg",
+      "/assets/images/blueBasin/bluebasin2.jpeg",
+      "/assets/images/blueBasin/bluebasin3.jpeg",
+      "/assets/images/blueBasin/bluebasin4.jpeg",
+      "/assets/images/blueBasin/bluebasin5.jpeg",
+      "/assets/images/blueBasin/bluebasin6.jpeg",
+      "/assets/images/blueBasin/bluebasin7.jpeg",
+      "/assets/images/blueBasin/bluebasin8.jpeg",
+      "/assets/images/blueBasin/bluebasin9.jpeg",
+      "/assets/images/blueBasin/bluebasin10.jpeg",
+      "/assets/images/blueBasin/bluebasin11.jpeg",
+      "/assets/images/blueBasin/bluebasin12.jpeg",
+    ],
+  },
 ];
 
 export default trailNames;

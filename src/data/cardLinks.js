@@ -119,6 +119,14 @@ const cardLink = [
         "text": "Story",
         "url": "https://belknapcrater.netlify.app/"
     },
+    {
+        "text": "Walkthrough",
+        "url": "https://velvety-dodol-38838b.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://bluebasin.netlify.app/"
+    }
 ];
 
 export default cardLink;
