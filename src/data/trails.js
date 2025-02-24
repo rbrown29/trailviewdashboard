@@ -398,6 +398,31 @@ const trailNames = [
       "/assets/images/blueBasin/bluebasin12.jpeg",
     ],
   },
+  {
+    name: "Cache Lake Trail",
+    length: 9.5,
+    elevation: 1414,
+    location: "Camp Sherman, Oregon",
+    difficulty: "Hard",
+    seasons: "Summer, Fall, Winter",
+    hiketype: "Out and back",
+    description:
+      "This route takes you to the summit of Cache Mountain at over 5500 feet. Cache Mountain is a butte that is accessed by dirt forest service roads. You can hike this route along the roads beginning at the intersection between National Forest Road 500 and 900. The route is mostly open and not under forest canopy. Parking is along the side of the road at the best pull-out option you can find. You'll hike up the road, looking at the mountain looming ahead of you.",
+    images: [
+      "/assets/images/cacheLake/cache1.jpeg",
+      "/assets/images/cacheLake/cache2.jpeg",
+      "/assets/images/cacheLake/cache3.jpeg",
+      "/assets/images/cacheLake/cache4.jpeg",
+      "/assets/images/cacheLake/cache5.jpeg",
+      "/assets/images/cacheLake/cache6.jpeg",
+      "/assets/images/cacheLake/cache7.jpg",
+      "/assets/images/cacheLake/cache8.jpg",
+      "/assets/images/cacheLake/cache9.jpg",
+      "/assets/images/cacheLake/cache10.jpg",
+      "/assets/images/cacheLake/cache11.jpg",
+      "/assets/images/cacheLake/cache12.jpg",
+    ],
+  }
 ];
 
 export default trailNames;

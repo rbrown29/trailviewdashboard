@@ -126,6 +126,14 @@ const cardLink = [
     {
         "text": "Story",
         "url": "https://bluebasin.netlify.app/"
+    },
+    {
+        "text": "Walkthrough",
+        "url": "https://tangerine-sunshine-c9ef35.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://cachelake.netlify.app/"
     }
 ];
 
