@@ -36,6 +36,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Belknap Crater Trail](https://viewbelknapcrater.netlify.app/)
 
+[Blue Basin Trail](https://viewbluebasin.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
