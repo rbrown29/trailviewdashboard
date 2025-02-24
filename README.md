@@ -38,6 +38,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Blue Basin Trail](https://viewbluebasin.netlify.app/)
 
+[Cache Lake Trail](https://viewcachelake.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
