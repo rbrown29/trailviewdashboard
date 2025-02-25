@@ -134,6 +134,14 @@ const cardLink = [
     {
         "text": "Story",
         "url": "https://cachelake.netlify.app/"
+    },
+    {
+        "text": "Walkthrough",
+        "url": "https://silver-pixie-041142.netlify.app/"
+    },
+    {
+        "text": "Story",
+        "url": "https://icelake.netlify.app/"
     }
 ];
 

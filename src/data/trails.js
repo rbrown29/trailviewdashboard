@@ -422,6 +422,31 @@ const trailNames = [
       "/assets/images/cacheLake/cache11.jpg",
       "/assets/images/cacheLake/cache12.jpg",
     ],
+  },
+  {
+    name: "Ice Lake Trail",
+    length: 15.6,
+    elevation: 3356,
+    location: "Joseph, Oregon",
+    difficulty: "Hard",
+    seasons: "Summer, Fall",
+    hiketype: "Out and back",
+    description:
+      "Enjoy this 15.6-mile out-and-back trail near Joseph, Oregon. Generally considered a challenging route, it takes an average of 8 h 0 min to complete. This is a popular trail for backpacking, camping, and fishing, but you can still enjoy some solitude during quieter times of day.",
+    images: [
+      "/assets/images/iceLake/iceLake1.jpeg",
+      "/assets/images/iceLake/iceLake2.jpeg",
+      "/assets/images/iceLake/iceLake3.jpeg",
+      "/assets/images/iceLake/iceLake4.jpeg",
+      "/assets/images/iceLake/iceLake5.jpeg",
+      "/assets/images/iceLake/iceLake6.jpeg",
+      "/assets/images/iceLake/iceLake7.jpeg",
+      "/assets/images/iceLake/iceLake8.jpeg",
+      "/assets/images/iceLake/iceLake9.jpeg",
+      "/assets/images/iceLake/iceLake10.jpeg",
+      "/assets/images/iceLake/iceLake11.jpeg",
+      "/assets/images/iceLake/iceLake12.jpeg",
+    ],
   }
 ];
 
