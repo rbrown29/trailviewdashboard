@@ -40,6 +40,8 @@ This project is a web-based application for exploring hiking trails like the **C
 
 [Cache Lake Trail](https://viewcachelake.netlify.app/)
 
+[Ice Lake Trail](https://viewicelake.netlify.app/)
+
 ## Features
 
 ### 1. **Trail Information**
